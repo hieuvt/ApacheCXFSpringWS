@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ApacheCXFSpringWS:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ApacheCXFSpringWS-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ApacheCXFSpringWS:war exploded" />
+    </root>
+  </artifact>
+</component>
