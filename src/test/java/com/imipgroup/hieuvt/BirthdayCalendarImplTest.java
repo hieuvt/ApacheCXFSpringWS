@@ -32,7 +32,7 @@ public class BirthdayCalendarImplTest extends TestCase {
         BirthdayCalendar bc=newBirthdayClient();
         SimpleDateFormat sdf=new SimpleDateFormat("dd-MM-yyyy");
         bc.addBirthday("Erik",sdf.parse("21-02-1971"));
-        BirthdayCalendar.Birthday[] b=bc.getBirthdaysInMonth(2);
+        Birthday[] b=bc.getBirthdaysInMonth(2);
         assertEquals(1,b.length);
         assertEquals("Erik",b[0].getName());
         assertEquals(21,b[0].getDayOfMonth());

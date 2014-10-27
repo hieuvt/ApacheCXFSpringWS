@@ -1,26 +1,20 @@
 <beans xmlns="http://www.springframework.org/schema/beans"
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-       xmlns:simple="http://cxf.apache.org/simple"
-       xmlns:soap="http://cxf.apache.org/bindings/soap"
+       xmlns:jaxws="http://cxf.apache.org/jaxws"
        xsi:schemaLocation="
- http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-2.0.xsd
- http://cxf.apache.org/bindings/soap http://cxf.apache.org/schemas/configuration/soap.xsd
- http://cxf.apache.org/simple http://cxf.apache.org/schemas/simple.xsd">
+       http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans-2.0.xsd
+       http://cxf.apache.org/jaxws
+       http://cxf.apache.org/schemas/jaxws.xsd">
 
     <import resource="classpath:META-INF/cxf/cxf.xml"/>
     <import resource="classpath:META-INF/cxf/cxf-extension-soap.xml"/>
     <import resource="classpath:META-INF/cxf/cxf-servlet.xml"/>
 
-    <simple:server
+    <jaxws:endpoint
             id="birthdayCalendarService"
-            serviceClass="com.imipgroup.hieuvt.BirthdayCalendar"
-            address="/birthday">
-        <simple:serviceBean>
-            <bean class="com.imipgroup.hieuvt.BirthdayCalendarImpl" />
-        </simple:serviceBean>
-        <simple:dataBinding>
-            <bean class="org.apache.cxf.aegis.databinding.AegisDatabinding"/>
-        </simple:dataBinding>
-    </simple:server>
+            implementorClass="com.imipgroup.hieuvt.BirthdayCalendar"
+            implementor="com.imipgroup.hieuvt.BirthdayCalendarImpl"
+            address="/birthday"/>
 
 </beans>

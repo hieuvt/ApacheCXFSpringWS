@@ -29,11 +29,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="325" max-vertical-offset="799">
-              <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+            <state vertical-scroll-proportion="0.33169532" vertical-offset="392" max-vertical-offset="799">
+              <caret line="31" column="46" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -42,7 +42,7 @@
       <file leaf-file-name="web.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="544">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
               <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
               <folding />
             </state>
@@ -52,9 +52,21 @@
       <file leaf-file-name="beans.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/beans.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="527">
-              <caret line="19" column="28" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="28" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
+              <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IntergrationTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/imipgroup/hieuvt/IntergrationTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="155" max-vertical-offset="663">
+              <caret line="16" column="50" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -62,9 +74,11 @@
       <file leaf-file-name="BirthdayCalendar.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/imipgroup/hieuvt/BirthdayCalendar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="612">
-              <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
-              <folding />
+            <state vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="612">
+              <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -72,21 +86,28 @@
       <file leaf-file-name="BirthdayCalendarImpl.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/imipgroup/hieuvt/BirthdayCalendarImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="444" max-vertical-offset="850">
-              <caret line="19" column="37" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="37" />
-              <folding>
-                <element signature="e#387#388#0" expanded="true" />
-                <element signature="e#446#447#0" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.0" vertical-offset="117" max-vertical-offset="510">
+              <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BirthdayCalendarImplTest.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Birthday.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/imipgroup/hieuvt/Birthday.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="342" max-vertical-offset="748">
+              <caret line="41" column="12" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BirthdayCalendarImplTest.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/imipgroup/hieuvt/BirthdayCalendarImplTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.66502464" vertical-offset="257" max-vertical-offset="663">
-              <caret line="37" column="20" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="20" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="2" max-vertical-offset="663">
+              <caret line="20" column="5" selection-start-line="11" selection-start-column="3" selection-end-line="20" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -102,13 +123,15 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/imipgroup/hieuvt/BirthdayCalendar.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/imipgroup/hieuvt/BirthdayCalendarImpl.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/beans.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/imipgroup/hieuvt/BirthdayCalendarClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imipgroup/hieuvt/BirthdayCalendar.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/imipgroup/hieuvt/BirthdayCalendarImplTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/imipgroup/hieuvt/Birthday.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/imipgroup/hieuvt/IntergrationTest.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/beans.xml" />
       </list>
     </option>
   </component>
@@ -335,16 +358,17 @@
     <property name="options.searchVisible" value="true" />
     <property name="restartRequiresConfirmation" value="true" />
     <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ApacheCXFSpringWSClient" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="junit.framework.TestCase" />
-    </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="com.imipgroup.hieuvt" />
     </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="junit.framework.TestCase" />
+    </key>
   </component>
-  <component name="RunManager" selected="JUnit.BirthdayCalendarImplTest">
+  <component name="RunManager" selected="JUnit.IntergrationTest">
     <configuration default="false" name="BirthdayCalendarImplTest" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="ApacheCXFSpringWS" />
@@ -357,6 +381,34 @@
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="IntergrationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.imipgroup.hieuvt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="ApacheCXFSpringWS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.imipgroup.hieuvt" />
+      <option name="MAIN_CLASS_NAME" value="com.imipgroup.hieuvt.IntergrationTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
@@ -749,13 +801,15 @@
       </ConfigurationWrapper>
       <method />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="JUnit.BirthdayCalendarImplTest" />
       <item index="1" class="java.lang.String" itemvalue="Tomcat Server.BirthdayService" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.IntergrationTest" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.BirthdayCalendarImplTest" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.IntergrationTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.BirthdayCalendarImplTest" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -774,12 +828,12 @@
       <updated>1414341619625</updated>
       <workItem from="1414341627284" duration="4244000" />
       <workItem from="1414377204217" duration="1544000" />
-      <workItem from="1414378768073" duration="4263000" />
+      <workItem from="1414378768073" duration="10028000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10051000" />
+    <option name="totallyTimeSpent" value="15816000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1320" height="784" extended-state="7" />
@@ -807,8 +861,8 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32988167" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34662578" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32988167" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34662578" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32840237" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -833,7 +887,9 @@
     </option>
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -876,7 +932,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="612">
           <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -884,10 +942,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="442" max-vertical-offset="1003">
           <caret line="26" column="56" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="56" />
-          <folding>
-            <element signature="e#387#388#0" expanded="true" />
-            <element signature="e#446#447#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -927,7 +982,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="612">
           <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -935,10 +992,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="1003">
           <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
-          <folding>
-            <element signature="e#387#388#0" expanded="true" />
-            <element signature="e#446#447#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -946,14 +1000,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="408">
           <caret line="10" column="76" selection-start-line="10" selection-start-column="76" selection-end-line="10" selection-end-column="76" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/imipgroup/hieuvt/BirthdayCalendar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
-          <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
           <folding />
         </state>
       </provider>
@@ -966,6 +1012,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imipgroup/hieuvt/Birthday.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="342" max-vertical-offset="748">
+          <caret line="41" column="12" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imipgroup/hieuvt/BirthdayCalendar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="612">
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imipgroup/hieuvt/BirthdayCalendarImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="117" max-vertical-offset="510">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/imipgroup/hieuvt/BirthdayCalendarImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2" max-vertical-offset="663">
+          <caret line="20" column="5" selection-start-line="11" selection-start-column="3" selection-end-line="20" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
@@ -974,37 +1054,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/imipgroup/hieuvt/BirthdayCalendarImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/beans.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="444" max-vertical-offset="850">
-          <caret line="19" column="37" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="37" />
-          <folding>
-            <element signature="e#387#388#0" expanded="true" />
-            <element signature="e#446#447#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/beans.xml">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/imipgroup/hieuvt/IntergrationTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="527">
-          <caret line="19" column="28" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="28" />
-          <folding />
+        <state vertical-scroll-proportion="0.0" vertical-offset="155" max-vertical-offset="663">
+          <caret line="16" column="50" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="325" max-vertical-offset="799">
-          <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/imipgroup/hieuvt/BirthdayCalendarImplTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.66502464" vertical-offset="257" max-vertical-offset="663">
-          <caret line="37" column="20" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="20" />
+        <state vertical-scroll-proportion="0.33169532" vertical-offset="392" max-vertical-offset="799">
+          <caret line="31" column="46" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
           <folding />
         </state>
       </provider>
